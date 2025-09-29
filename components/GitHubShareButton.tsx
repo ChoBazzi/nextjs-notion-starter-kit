@@ -1,4 +1,4 @@
-import styles from './styles.module.css'
+/*import styles from './styles.module.css'
 
 export function GitHubShareButton() {
   return (
@@ -44,3 +44,5 @@ export function GitHubShareButton() {
     </a>
   )
 }
+
+*/
